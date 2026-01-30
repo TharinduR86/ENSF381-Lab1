@@ -1,2 +1,2 @@
-# ENSF381-Lab2
-Lab 2 for ENSF381
+# ENSF381-Lab1
+Lab 1 for ENSF381
